@@ -64,9 +64,18 @@
 
 //
 char nirdhesh;
-int a-0;
+int a=0;
 int b=10;
-int c=20;
+//int c=20;
+//int d;
+//int e;
+
+char college;
+
+float = 2.99;
+
+
+
 // Defines
 //
 #define RESULTS_BUFFER_SIZE     256
@@ -125,6 +134,7 @@ void main(void)
     for(index = 0; index < RESULTS_BUFFER_SIZE; index++)
     {
         myADC0Results[index] = 0;
+        char Nirdeshhhhhh ;
     }
 
     index = 0;
