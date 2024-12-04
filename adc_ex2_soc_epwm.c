@@ -64,6 +64,9 @@
 
 //
 char nirdhesh;
+int a-0;
+int b=10;
+int c=20;
 // Defines
 //
 #define RESULTS_BUFFER_SIZE     256
