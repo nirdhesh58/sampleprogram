@@ -63,6 +63,7 @@
 #include "board.h"
 
 //
+char nirdhesh;
 // Defines
 //
 #define RESULTS_BUFFER_SIZE     256
